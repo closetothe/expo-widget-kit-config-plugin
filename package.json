@@ -1,7 +1,7 @@
 {
   "name": "@closetothe/expo-widget-kit-config-plugin",
   "version": "0.1.0",
-  "description": "A config plugin to add WidgetKit during expo prebuild (allows use of react-native-widget-kit)",
+  "description": "A config plugin to add WidgetKit during expo prebuild (allows use of react-native-widget-center)",
   "main": "build/index.js",
   "types": "build/index.d.ts",
   "scripts": {
