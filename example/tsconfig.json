@@ -1,0 +1,10 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+    "paths": {
+      "expo-widget-kit-config-plugin": ["../src/index"],
+      "expo-widget-kit-config-plugin/*": ["../src/*"]
+    }
+  }
+}
